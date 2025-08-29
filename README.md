@@ -13,3 +13,7 @@ For curious and bright minds:
 This isn't the kind of mystery to be solved. 
 I'm not trying to be edgy, cool, or plant an ARG here - this repo serves only one purpose, and that purpose is a highly sensitive and personal one I don't want shared.
 As for the sequences of symbols? They are markers for a script, nothing else.
+
+
+
+Note to self: If you ever lose the password, remember that hackerman website you made for your first foray into school unblocking?
